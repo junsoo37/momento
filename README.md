@@ -12,7 +12,8 @@ Please refer the poster
 Check entire app code in momentong directory.
 
 App Full Demo
-![](https://github.com/junsoo37/momento/blob/master/demo.gif)
+
+<img src="https://github.com/junsoo37/momento/blob/master/demo.gif" height="200"/>
 
 
 ### Motion scoring algorithm
@@ -20,7 +21,6 @@ Check motion scoring code in server directory.
 </br>
 The motion scoring algorithms is based on ["Efficient Body Motion Quantification and Similarity Evaluation Using 3-D Joints Skeleton Coordinates"](https://ieeexplore.ieee.org/document/8727745) in IEEE Transactions on Systems, Man, and Cybernetics: Systems (2021).
 </br> We implemented the algorithm in the paper by modifying for our project.
-
 
 
 ## Tech Stack
