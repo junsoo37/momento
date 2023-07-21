@@ -10,10 +10,9 @@ Please refer the poster
 
 ### App
 Check entire app code in momentong directory.
+<br/> App Full Demo
 
-App Full Demo
-
-<img src="https://github.com/junsoo37/momento/blob/master/demo.gif" height="200"/>
+<img src="https://github.com/junsoo37/momento/blob/master/demo.gif" height="500"/>
 
 
 ### Motion scoring algorithm
