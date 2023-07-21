@@ -7,7 +7,7 @@ Application that extracts a user's pose from smartphone camera with on-device AI
 Pose estimation runs in on-device environment. However it was difficult to implement the motion scoring algorithm using dart because of lack of mathematical operations. So we implemented the algorithm using python and numpy. And then serve this algorithm using Flask server, so that the app can use this algorithm by calling API. 
 
 Check details about whole project in
-</br> - poster KR ver. (Eng version will be uploaded soon)
+</br> - [poster KR ver.](https://github.com/junsoo37/momento/blob/master/poster_KR.pdf) (Eng version will be uploaded soon)
 
 ### App
 Check entire app code in momentong directory.
